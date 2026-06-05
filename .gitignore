@@ -5,8 +5,5 @@ __pycache__/
 data/arxiv-metadata-oai-snapshot.json
 data/multimodal_papers.csv
 data/clean_multimodal_papers.csv
-data/embeddings.npy
-data/reduced_embeddings.npy
-data/papers.index
 data/topic_assignments.csv
 data/search_history.db
