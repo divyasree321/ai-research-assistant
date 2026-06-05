@@ -9,7 +9,7 @@ model = SentenceTransformer(
 )
 
 df = pd.read_csv(
-    "data/clean_multimodal_papers.csv"
+    "data/demo_papers.csv"
 )
 
 index = faiss.read_index(
